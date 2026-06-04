@@ -1,0 +1,13 @@
+node_modules
+.next
+.local-node
+.npm-cache
+.tmp-download
+.tools
+.git-broken-*
+out
+dist
+.env*
+*.log
+.DS_Store
+tsconfig.tsbuildinfo
