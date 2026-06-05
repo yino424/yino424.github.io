@@ -53,7 +53,7 @@ html:lang(en) body {
   }
 
   .tag {
-    @apply whitespace-pre-line border border-line bg-white px-3 py-1.5 text-sm text-muted;
+    @apply inline-flex items-center whitespace-nowrap border border-line bg-white px-3 py-1.5 text-sm leading-6 text-muted;
   }
 
   .tag-small {

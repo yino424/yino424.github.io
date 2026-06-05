@@ -44,9 +44,11 @@ export const zh: SiteContent = {
   about: {
     title: "关于我",
     body: [
+      "Hi，你好，我是吴雨诺，来自中国北京。我性格开朗热情，也很热爱运动。我喜欢学习新的知识，也希望持续把握时代的发展趋势，这也是我逐渐形成交叉学科背景的重要原因。",
       "我目前就读于东京大学大学院博士课程，具有建筑、城市规划、景观与空间信息学的交叉学科背景。",
-      "修士阶段，我使用卫星影像衍生特征、自治体调查数据与行政区域数据，基于深度学习方法进行空き家数推定。",
+      "修士阶段，我使用卫星 embedding、自治体调查数据与行政区域数据，基于深度学习方法进行空き家数推定。",
       "博士阶段，我关注利用空间信息进行建筑单元级别的时空建模自动化，并进一步把握城市住宅变化与城市衰退过程。",
+      "我很热爱自己正在做的研究，也珍惜认真生活的每一天。希望未来能够做出真正有意义、对社会有所贡献的事情。",
     ],
   },
   research: {
@@ -58,7 +60,7 @@ export const zh: SiteContent = {
         title: "Estimating Vacant Houses Using Deep Learning with Satellite Imagery",
         description: "修士研究",
         points: [
-          "使用卫星由来特征量、自治体调查数据和行政区域数据。",
+          "使用卫星 embedding、自治体调查数据和行政区域数据。",
           "构建深度学习模型，对空き家数进行推定。",
           "负责数据收集、前处理、空间结合、模型结构调整、训练与评价流程的设计和实现。",
         ],
@@ -144,7 +146,7 @@ export const zh: SiteContent = {
         items: [
           "日语 商务水平 / JLPT N1",
           "英语 商务水平 / TOEFL 92",
-          "中文\n母语",
+          "中文 母语",
         ],
       },
     ],
@@ -157,7 +159,7 @@ export const zh: SiteContent = {
       "北京建筑大学优秀毕业生, 前 1%",
       "优秀毕业设计奖, 前 1%",
       "北京市优秀毕业生, 前 5%",
-      "全国大学生英语竞赛三等奖",
+      "全国大学生英语竞赛（NECCS）三等奖",
       "米兰国际建筑竞赛 “Challenge to Navigli Canal” 入围奖",
     ],
   },
@@ -183,26 +185,31 @@ export const zh: SiteContent = {
         period: "主要经历",
       },
       {
+        institution: "东京大学与深圳大学",
+        program: "学术交流活动",
+        period: "学术交流",
+      },
+      {
         institution: "歌手比赛",
         program: "冠军",
         period: "文艺活动",
       },
       {
-        institution: "女子篮球",
-        program: "团队运动与课外活动",
+        institution: "运动与户外",
+        program: "8 年女子篮球经验、滑雪、健身、hiking 等",
         period: "生活热爱",
       },
     ],
   },
   materials: {
     title: "研究资料",
-    cardTitle: "修士论文答辩幻灯片",
+    cardTitle: "修士论文答辩资料",
     description:
-      "你可以查看我的修士论文答辩幻灯片，以进一步了解我的研究背景和方法。",
-    view: "查看幻灯片",
+      "你可以查看我的修士论文答辩资料，以进一步了解我的研究背景和方法。",
+    view: "查看资料",
     filePath: "/files/修士研究.pdf",
     previewImagePath: "/files/master_thesis_preview.png",
-    previewFallback: "可通过“查看幻灯片”按钮打开研究资料。",
+    previewFallback: "可通过“查看资料”按钮打开研究资料。",
   },
   contact: {
     title: "联系",

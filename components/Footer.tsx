@@ -8,7 +8,7 @@ export function Footer({ content }: { content: SiteContent }) {
           <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-accent-soft">
             {content.contact.title}
           </h2>
-          <p className="mt-5 max-w-2xl text-2xl leading-9 md:text-3xl md:leading-[1.45]">
+          <p className="mt-5 max-w-2xl text-base leading-8 text-white/90 md:text-lg md:leading-8">
             {content.contact.description}
           </p>
         </div>

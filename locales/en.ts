@@ -4,7 +4,7 @@ export const en: SiteContent = {
   meta: {
     title: "Yunuo Wu | Academic Homepage",
     description:
-      "Academic homepage of Yunuo Wu, doctoral student in spatial informatics, urban decline analysis, and building-level spatio-temporal modeling.",
+      "Academic homepage of Yunuo Wu, PhD student in spatial informatics, urban decline analysis, and building-level spatio-temporal modeling.",
   },
   nav: {
     about: "About",
@@ -46,9 +46,11 @@ export const en: SiteContent = {
   about: {
     title: "About",
     body: [
-      "I am a doctoral student at The University of Tokyo with an interdisciplinary background in architecture, urban planning, landscape architecture, and spatial informatics.",
-      "My master’s research estimated the number of vacant houses by integrating satellite-derived features, municipal survey data, and administrative boundary data with deep learning methods.",
+      "Hi, I’m Yunuo Wu from Beijing, China. I am an open and energetic person who loves sports, learning new knowledge, and staying close to emerging trends. This curiosity is one reason I have built an interdisciplinary background.",
+      "I am a PhD student at The University of Tokyo with an interdisciplinary background in architecture, urban planning, landscape architecture, and spatial informatics.",
+      "My master’s research estimated the number of vacant houses by integrating satellite embeddings, municipal survey data, and administrative boundary data with deep learning methods.",
       "In my doctoral research, I focus on automated building-level spatio-temporal modeling using spatial information, with the aim of understanding housing change and urban decline at a finer resolution.",
+      "I care deeply about both my research and my everyday life, and I hope to create work that is meaningful to society.",
     ],
   },
   research: {
@@ -60,7 +62,7 @@ export const en: SiteContent = {
         title: "Estimating Vacant Houses Using Deep Learning with Satellite Imagery",
         description: "Master’s Research",
         points: [
-          "Used satellite-derived features, municipal survey data, and administrative boundary data.",
+          "Used satellite embeddings, municipal survey data, and administrative boundary data.",
           "Built deep learning models to estimate the number of vacant houses.",
           "Designed and implemented the pipeline for data collection, preprocessing, spatial joins, model adjustment, training, and evaluation.",
         ],
@@ -161,7 +163,7 @@ export const en: SiteContent = {
       "Outstanding Graduate of Beijing University of Civil Engineering and Architecture, top 1%",
       "Outstanding Graduation Design Award, top 1%",
       "Beijing Outstanding Graduate, top 5%",
-      "NECCS Third Prize",
+      "National English Competition for College Students (NECCS), Third Prize",
       "Finalist Award, International Architecture Competition “Challenge to Navigli Canal”, Milan",
     ],
   },
@@ -187,23 +189,28 @@ export const en: SiteContent = {
         period: "Selected experience",
       },
       {
+        institution: "The University of Tokyo and Shenzhen University",
+        program: "Academic exchange event",
+        period: "Academic exchange",
+      },
+      {
         institution: "Singing Competition",
         program: "Champion",
         period: "Cultural activities",
       },
       {
-        institution: "Women’s Basketball",
-        program: "Team sports and athletic activities",
+        institution: "Sports and outdoor activities",
+        program: "Eight years of women’s basketball, skiing, fitness, and hiking",
         period: "Personal interests",
       },
     ],
   },
   materials: {
     title: "Research Materials",
-    cardTitle: "Master Thesis Defense Slides",
+    cardTitle: "Master Thesis Defense Materials",
     description:
-      "You can view my master’s thesis defense slides to better understand my research background and methodology.",
-    view: "View Slides",
+      "You can view my master’s thesis defense materials to better understand my research background and methodology.",
+    view: "View Materials",
     filePath: "/files/修士研究.pdf",
     previewImagePath: "/files/master_thesis_preview.png",
     previewFallback:
