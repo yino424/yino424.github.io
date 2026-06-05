@@ -46,8 +46,7 @@ export const en: SiteContent = {
   about: {
     title: "About",
     body: [
-      "Hi, I’m Yunuo Wu from Beijing, China. I am an open and energetic person who loves sports, learning new knowledge, and staying close to emerging trends. This curiosity is one reason I have built an interdisciplinary background.",
-      "I am a PhD student at The University of Tokyo with an interdisciplinary background in architecture, urban planning, landscape architecture, and spatial informatics.",
+      "Hi, I’m Yunuo Wu from Beijing, China, a PhD student at The University of Tokyo with an interdisciplinary background in spatial informatics, architecture, urban planning, and landscape architecture. I am an open and energetic person who loves sports, learning new knowledge, and staying close to emerging trends, and this curiosity has been a driving force behind my cross-disciplinary learning and research.",
       "My master’s research estimated the number of vacant houses by integrating satellite embeddings, municipal survey data, and administrative boundary data with deep learning methods.",
       "In my doctoral research, I focus on automated building-level spatio-temporal modeling using spatial information, with the aim of understanding housing change and urban decline at a finer resolution.",
       "I care deeply about both my research and my everyday life, and I hope to create work that is meaningful to society.",
