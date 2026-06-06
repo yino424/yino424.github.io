@@ -187,8 +187,8 @@ export const ja: SiteContent = {
         period: "学術交流",
       },
       {
-        institution: "歌唱コンテスト",
-        program: "優勝",
+        institution: "優勝 2 回・準優勝 1 回",
+        program: "歌唱コンテスト",
         period: "文化活動",
       },
       {

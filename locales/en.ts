@@ -193,8 +193,8 @@ export const en: SiteContent = {
         period: "Academic exchange",
       },
       {
-        institution: "Singing Competition",
-        program: "Champion",
+        institution: "Champion twice and runner-up once",
+        program: "Singing Competition",
         period: "Cultural activities",
       },
       {

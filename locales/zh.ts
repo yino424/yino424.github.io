@@ -189,13 +189,13 @@ export const zh: SiteContent = {
         period: "学术交流",
       },
       {
-        institution: "歌手比赛",
-        program: "冠军",
+        institution: "冠军 2 次、亚军 1 次",
+        program: "歌手比赛",
         period: "文艺活动",
       },
       {
         institution: "运动与户外",
-        program: "8 年女子篮球经验、滑雪、健身、hiking 等",
+        program: "8 年女子篮球经验、滑雪、健身、徒步等",
         period: "生活热爱",
       },
     ],
