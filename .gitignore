@@ -4,6 +4,7 @@ node_modules
 .npm-cache
 .tmp-download
 .tools
+.codex_tmp
 .git-broken-*
 out
 dist
