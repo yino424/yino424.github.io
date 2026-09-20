@@ -106,6 +106,26 @@ export const en: SiteContent = {
           "Trend Analysis",
         ],
       },
+      {
+        title: "Research Knowledge Agent with Amazon Bedrock and RAG",
+        description: "UMP-JUST Agent AI Hackathon / Jul 2026",
+        points: [
+          "Co-developed an AI agent that makes a laboratory’s accumulated tacit knowledge searchable and reusable.",
+          "Built a research knowledge base with Amazon Bedrock, retrieval-augmented generation, and FastAPI.",
+          "Delivered an MVP that retrieves research materials and answers questions in natural language.",
+        ],
+        keywords: ["Amazon Bedrock", "RAG", "FastAPI", "AI Agent", "MVP"],
+      },
+      {
+        title: "Project PLATEAU: Nationwide 3D Urban Model Data Pipeline",
+        description: "MLIT Collaborative Project / 2026-Present",
+        points: [
+          "Contribute to a nationwide processing and management workflow for building data across Japan.",
+          "Generate 3D urban models from 2D building data.",
+          "Develop an end-to-end pipeline for assigning and managing building-level identifiers.",
+        ],
+        keywords: ["Project PLATEAU", "3D City Models", "Building ID", "Data Pipeline"],
+      },
     ],
   },
   education: {
@@ -134,6 +154,7 @@ export const en: SiteContent = {
   skills: {
     title: "Skills",
     groups: [
+      { title: "Qualification", items: ["Japanese Class 1 Driver’s License"] },
       { title: "Programming Languages", items: ["Python", "SQL"] },
       { title: "Development Tools", items: ["PyTorch", "Linux", "LaTeX", "Git"] },
       {
@@ -163,6 +184,7 @@ export const en: SiteContent = {
       "Outstanding Graduation Design Award, top 1%",
       "Beijing Outstanding Graduate, top 5%",
       "National English Competition for College Students (NECCS), Third Prize",
+      "Presentation Award, UMP-JUST Agent AI Hackathon, Jul 2026",
       "Finalist Award, International Architecture Competition “Challenge to Navigli Canal”, Milan",
     ],
   },
@@ -179,7 +201,12 @@ export const en: SiteContent = {
         institution:
           "Chinese Students and Scholars Association at the University of Tokyo",
         program: "Planning Department Director",
-        period: "2025.04-present",
+        period: "Apr 2025-Present",
+      },
+      {
+        institution: "Graduate School Welcome Seminar, The University of Tokyo",
+        program: "Invited talk on research and graduate life as the incoming doctoral student representative",
+        period: "Apr 2026",
       },
       {
         institution: "Event Planning",

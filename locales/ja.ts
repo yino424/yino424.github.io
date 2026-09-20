@@ -104,6 +104,26 @@ export const ja: SiteContent = {
           "Trend Analysis",
         ],
       },
+      {
+        title: "Research Knowledge Agent with Amazon Bedrock and RAG",
+        description: "UMP-JUST Agent AI Hackathon / 2026.07",
+        points: [
+          "研究室に蓄積された暗黙知を検索・活用できる AI エージェントをチームで開発しました。",
+          "Amazon Bedrock、RAG、FastAPI を用いて研究資料をナレッジベース化しました。",
+          "自然言語で資料を検索し、回答を得られる MVP を構築しました。",
+        ],
+        keywords: ["Amazon Bedrock", "RAG", "FastAPI", "AI Agent", "MVP"],
+      },
+      {
+        title: "Project PLATEAU: Nationwide 3D Urban Model Data Pipeline",
+        description: "国土交通省 連携プロジェクト / 2026-現在",
+        points: [
+          "日本全国の建築物を対象とするデータ処理・管理フローの構築に従事しています。",
+          "2D 建築物データから 3D 都市モデルを生成します。",
+          "建物単位の ID 付与・管理までを一貫して行う仕組みを開発しています。",
+        ],
+        keywords: ["Project PLATEAU", "3D City Models", "Building ID", "Data Pipeline"],
+      },
     ],
   },
   education: {
@@ -130,6 +150,7 @@ export const ja: SiteContent = {
   skills: {
     title: "スキル",
     groups: [
+      { title: "資格", items: ["普通自動車第一種運転免許"] },
       { title: "プログラミング言語", items: ["Python", "SQL"] },
       { title: "開発ツール", items: ["PyTorch", "Linux", "LaTeX", "Git"] },
       {
@@ -159,6 +180,7 @@ export const ja: SiteContent = {
       "優秀卒業設計賞, 上位 1%",
       "北京市優秀卒業生, 上位 5%",
       "全国大学生英語コンテスト（NECCS）三等賞",
+      "UMP-JUST Agent AI Hackathon プレゼンテーション賞, 2026.07",
       "国際建築コンペティション “Challenge to Navigli Canal”, Milan ファイナリスト賞",
     ],
   },
@@ -173,7 +195,12 @@ export const ja: SiteContent = {
       {
         institution: "東京大学中国留学生学友会",
         program: "企画部長",
-        period: "2025.04-present",
+        period: "2025.04-現在",
+      },
+      {
+        institution: "東京大学大学院「話潭セミナー」新入生歓迎会",
+        program: "博士課程新入生代表として研究活動と大学院生活について招待講演",
+        period: "2026.04",
       },
       {
         institution: "イベント企画",

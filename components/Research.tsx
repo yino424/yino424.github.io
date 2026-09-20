@@ -8,7 +8,7 @@ export function Research({ content }: { content: SiteContent }) {
       title={content.research.title}
       intro={content.research.intro}
     >
-      <div className="grid gap-5 lg:grid-cols-3">
+      <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
         {content.research.items.map((item) => (
           <article key={item.title} className="research-card">
             <p className="text-sm font-semibold text-accent">{item.description}</p>

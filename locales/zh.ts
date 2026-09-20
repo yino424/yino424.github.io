@@ -104,6 +104,26 @@ export const zh: SiteContent = {
           "Trend Analysis",
         ],
       },
+      {
+        title: "Research Knowledge Agent with Amazon Bedrock and RAG",
+        description: "UMP-JUST Agent AI Hackathon / 2026.07",
+        points: [
+          "与团队共同开发可检索并利用研究室隐性知识的 AI Agent。",
+          "使用 Amazon Bedrock、RAG 与 FastAPI，将研究资料构建为知识库。",
+          "完成可通过自然语言检索资料并生成回答的 MVP。",
+        ],
+        keywords: ["Amazon Bedrock", "RAG", "FastAPI", "AI Agent", "MVP"],
+      },
+      {
+        title: "Project PLATEAU: Nationwide 3D Urban Model Data Pipeline",
+        description: "日本国土交通省合作项目 / 2026-至今",
+        points: [
+          "参与面向日本全国建筑物的数据处理与管理流程建设。",
+          "基于二维建筑数据生成三维城市模型。",
+          "开发从模型生成到建筑单元 ID 赋予与管理的一体化流程。",
+        ],
+        keywords: ["Project PLATEAU", "3D City Models", "Building ID", "Data Pipeline"],
+      },
     ],
   },
   education: {
@@ -130,6 +150,7 @@ export const zh: SiteContent = {
   skills: {
     title: "技能",
     groups: [
+      { title: "资格", items: ["日本普通汽车第一种驾驶执照"] },
       { title: "编程语言", items: ["Python", "SQL"] },
       { title: "开发工具", items: ["PyTorch", "Linux", "LaTeX", "Git"] },
       {
@@ -159,6 +180,7 @@ export const zh: SiteContent = {
       "优秀毕业设计奖, 前 1%",
       "北京市优秀毕业生, 前 5%",
       "全国大学生英语竞赛（NECCS）三等奖",
+      "UMP-JUST Agent AI Hackathon 演示奖, 2026.07",
       "米兰国际建筑竞赛 “Challenge to Navigli Canal” 入围奖",
     ],
   },
@@ -175,7 +197,12 @@ export const zh: SiteContent = {
         institution:
           "东京大学中国留学生学友会",
         program: "企划部部长",
-        period: "2025.04-present",
+        period: "2025.04-至今",
+      },
+      {
+        institution: "东京大学大学院“话潭 Seminar”新生欢迎会",
+        program: "作为博士课程新生代表，就研究活动与大学院生活进行受邀演讲",
+        period: "2026.04",
       },
       {
         institution: "活动策划",
